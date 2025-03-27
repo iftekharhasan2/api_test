@@ -100,7 +100,7 @@ def chat():
             response = openai.ChatCompletion.create(
                 model="gpt-3.5-turbo",
                 messages=[
-                    {"role": "system", "content": "You are a helpful chatbot in bangla."},
+                    {"role": "system", "content": "You are a chatbot in bangla."},
                     {"role": "user", "content": user_message}
                 ]
             )

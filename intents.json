@@ -1,0 +1,499 @@
+{
+    "intents": [
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "How many groups are there for each batch?","How many groups are there in each batch?", "What is the number of groups per batch?", "Can you tell me the group count for each batch?", "How many teams are assigned to each batch?", "What is the total number of groups in every batch?", "How many divisions exist for each batch?", "What’s the group distribution in a batch?", "How many sections does each batch have?", "Could you provide the group details for each batch?", "What’s the breakdown of groups per batch?"
+            ],
+            "responses": [
+                "There are total 3 groups for each batch in Data Solution 360 Messenger group, WhatsApp group, and Google Classroom. When you are admitted into a course in Data Solution 360, make sure to contact with the support team to be added in all three groups."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "What is the purpose of the Messenger group?","What is the purpose of the Messenger group?", "Why does the Messenger group exist?", "What is the role of the Messenger group?", "What’s the aim of the Messenger group?", "What is the function of the Messenger group?", "Why was the Messenger group created?", "What’s the reason behind the Messenger group?", "What’s the objective of the Messenger group?", "Can you explain the purpose of the Messenger group?", "What is the intent of the Messenger group?"
+            ],
+            "responses": [
+                "The Messenger group is opened only for the students. In the Messenger group, students can communicate with each other, as well as they can also communicate with the course instructor and support team, and discuss about their problems."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "How can I join the Messenger group?", "What is the process to join the Messenger group?", "How do I become a member of the Messenger group?", "What steps do I need to follow to join the Messenger group?", "How do I get access to the Messenger group?", "Can you tell me how to join the Messenger group?", "What’s the way to join the Messenger group?", "How can I get into the Messenger group?", "What do I need to do to join the Messenger group?", "How can I sign up for the Messenger group?"
+            ],
+            "responses": [
+                "When a student complete the registration process and fill up the registration form, a mail is sent to his/her registered mail address within 24 hours. In that mail, the link of the batch Messenger group is provided. From that link, the student can send join request, and officials from Data Solution 360 will allow him/her in the Messenger group after proper checking. That is how a student can enter in the messenger group. Make sure that, you have to send join request in the Messenger group from the same Facebook ID of yours as you provided in the registration form."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "Can I share any course-related materials in the Messenger group?", "Is it allowed to share course materials in the Messenger group?", "Can I post course-related content in the Messenger group?", "Am I allowed to share study materials in the Messenger group?", "Is it okay to share course-related resources in the Messenger group?", "Can I upload course materials to the Messenger group?", "Are course-related materials allowed in the Messenger group?", "Can I distribute course materials in the Messenger group?", "Is it permitted to share educational content in the Messenger group?", "Can I share learning resources in the Messenger group?"
+            ],
+            "responses": [
+               "Sure, you can. But it is suggested that you should contact one of the support team member of Data Solution 360 before sharing any materials." 
+                    ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "Can I share my course-related problems in the Messenger group?", "Is it okay to post course-related issues in the Messenger group?", "Am I allowed to share my academic problems in the Messenger group?", "Can I discuss course-related challenges in the Messenger group?", "Is it permitted to share course-related difficulties in the Messenger group?", "Can I ask about my course problems in the Messenger group?", "Can I bring up my course-related questions in the Messenger group?", "Is it fine to share my learning difficulties in the Messenger group?", "Can I post my study problems in the Messenger group?", "Is it allowed to seek help with course issues in the Messenger group?"
+            ],
+            "responses": [
+                "Sure, you can. If you share any course related problem in the messenger group, it is suggested that you should also mention the corresponding class instructor and support team member in this message, so that they can easily find your problem and give you solution."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "How long does this Messenger group exist even after the course ended?", "Will the Messenger group remain active after the course ends?", "For how long does the Messenger group stay active after the course is over?", "How long will the Messenger group last after the course has ended?", "Does the Messenger group stay active after the course is completed?", "How long will the Messenger group continue to exist after the course?", "Will the Messenger group remain open after the course finishes?", "How long is the Messenger group available after the course ends?", "What’s the duration of the Messenger group after the course concludes?", "How long does the Messenger group stay around once the course is finished?"
+            ],
+            "responses": [
+                "The Messenger group will always ramain as it is. You can access & message in the group for lifetime, even after the completion of the course."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "What is the purpose of the WhatsApp group?", "Why does the WhatsApp group exist?", "What is the role of the WhatsApp group?", "What’s the aim of the WhatsApp group?", "What is the function of the WhatsApp group?", "Why was the WhatsApp group created?", "What’s the reason behind the WhatsApp group?", "What’s the objective of the WhatsApp group?", "Can you explain the purpose of the WhatsApp group?", "What is the intent of the WhatsApp group?"
+            ],
+            "responses": [
+                "The WhatsApp group is opened mainly for the officials of Data Solution 360, so that all the important announcement can be given here, and students can easily find them."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "How can I join the WhatsApp group?", "What’s the process to join the WhatsApp group?", "How do I become a member of the WhatsApp group?", "Can you tell me how to join the WhatsApp group?", "What are the steps to join the WhatsApp group?", "How do I get added to the WhatsApp group?", "What’s the method to join the WhatsApp group?", "Can you guide me on joining the WhatsApp group?", "How do I sign up for the WhatsApp group?", "What should I do to join the WhatsApp group?"
+            ],
+            "responses": [
+                "When a student complete the registration process and fill up the registration form, a mail is sent to his/her registered mail address within 24 hours. In that mail, the link of the batch WhatsApp group is provided. From that link, the student can send join request, and officials from Data Solution 360 will allow him/her in the WhatsApp group after proper checking. That is how a student can enter in the WhatsApp group. Make sure that, you have to send join request in the WhatsApp group from the same mobile number of yours as you provided in the registration form."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "How long does this WhatsApp group exist even after the course ended?", "Will the WhatsApp group remain active after the course ends?", "For how long does the WhatsApp group stay active after the course is over?", "How long will the WhatsApp group last after the course has ended?", "Does the WhatsApp group stay active after the course is completed?", "How long will the WhatsApp group continue to exist after the course?", "Will the WhatsApp group remain open after the course finishes?", "How long is the WhatsApp group available after the course ends?", "What’s the duration of the WhatsApp group after the course concludes?", "How long does the WhatsApp group stay around once the course is finished?"
+            ],
+            "responses": [
+                "The WhatsApp group will always ramain as it is. You can access & see the messages in the group for lifetime, even after the completion of the course."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "can i massage in whats up group","Why I can not send messages in the WhatsApp group?","Why am I unable to send messages in the WhatsApp group?", "Why can't I text in the WhatsApp group?", "Why is my WhatsApp group chat not working?", "Why am I restricted from messaging in the WhatsApp group?", "Why is my WhatsApp group not letting me send messages?", "Why can't I send texts in my WhatsApp group?", "Why is my WhatsApp group chat disabled for me?", "Why am I blocked from sending messages in the WhatsApp group?", "Why is my WhatsApp group chat not allowing me to send messages?", "Why can't I type in my WhatsApp group?"
+            ],
+            "responses": [
+                "The messages in the WhatsApp group is only restricted to the officials of Data Solution 360. The main reason is, if the group is made open for the student, and an important notice is sent in the WhatsApp group by the officials, it might be lost or fall behind the other messages from the students. That is why it is important that, only officials can send messages in the WhatsApp group, so that students can easily find important messages there. For students, there is a Messenger group along with the WhatsApp group where they can send messages & share their concerns."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "Why sending messages in WhatsApp group is restricted to only admin?","Why can only admins send messages in the WhatsApp group?", "Why is messaging restricted to admins in my WhatsApp group?", "Why am I unable to send messages in the WhatsApp group while admins can?", "Why is my WhatsApp group allowing only admins to send messages?", "Why is the WhatsApp group chat restricted to admins only?", "Why can't members send messages in the WhatsApp group?", "Why is my WhatsApp group locked for non-admins?", "Why is messaging disabled for members in my WhatsApp group?", "Why has my WhatsApp group limited messaging to admins?", "Why is my WhatsApp group set to admin-only messaging?"
+            ],
+            "responses": [
+                "The messages in the WhatsApp group is only restricted to the officials of Data Solution 360. The main reason is, if the group is made open for the student, and an important notice is sent in the WhatsApp group by the officials, it might be lost or fall behind the other messages from the students. That is why it is important that, only officials can send messages in the WhatsApp group, so that students can easily find important messages there."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "What is the purpose of the Google Classroom?","The purpose of Google Classroom is to facilitate online learning and classroom management.", "What is Google Classroom used for?", "How does Google Classroom help teachers and students?", "What is the main function of Google Classroom?", "Why do schools use Google Classroom?", "What are the benefits of using Google Classroom?", "How does Google Classroom support remote learning?", "What problems does Google Classroom solve?", "What are the key features of Google Classroom?", "How does Google Classroom improve digital education?"
+            ],
+            "responses": [
+                "In the Google Classroom, students will find the materials and class record links of each class serially. After each class, the class instructor & the support team members upload all the class materials within 24 hours, so that students can easily find, download, and watch them. Additionally, Google Classroom is the place where students know about their assignments or homeworks, and they can also submit their works here."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "How can I join the Google Classroom?"
+            ],
+            "responses": [
+                "The Google Classroom of each class is opened mainly before 2-3 days of the 1st class. When a class in the Google Classroom for a batch is opened, the link is usually shared in the batch's Messenger group and WhatsApp group. From that link, a student can easily join the Google Classroom."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "How long does this Google Classroom exist even after the course ended?","How long does a Google Classroom stay active after the course ends?", "Does Google Classroom expire after a course is completed?", "How long can I access a Google Classroom after the class is over?", "When does a Google Classroom get deleted after the course ends?", "Can I still use Google Classroom after the course is finished?", "How long do course materials remain in Google Classroom?", "Does Google Classroom automatically delete old classes?", "How long will my Google Classroom be available after the term ends?", "Can students access Google Classroom after the course is completed?", "When does a Google Classroom become inactive?"
+            ],
+            "responses": [
+                "The Google Classroom will always ramain as it is. You will always access in the Google Classroom for lifetime, even after the completion of the course."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "Where should I submit my assignments or homeworks?","Where do I submit my assignments in Google Classroom?", "How can I turn in my homework on Google Classroom?", "Where should I upload my assignments in Google Classroom?", "What is the correct way to submit homework in Google Classroom?", "How do I submit my work in Google Classroom?", "Where do I attach my assignment in Google Classroom?", "How can I send my completed homework to my teacher in Google Classroom?", "Where is the submission option for assignments in Google Classroom?", "How do I turn in my project on Google Classroom?", "What steps should I follow to submit my assignment in Google Classroom?"
+            ],
+            "responses": [
+                "You can submit your assignments or homework in the Google Classroom of your batch. When class instructor assign any homework or assignment in the Google Classroom, you can find there is option for submitting your finished work (files, links, etc.). There you can easily submit your work, and make sure that you (Turned in) your work after submission."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "Can I announce anything in the Google Classroom?","Can I post announcements in Google Classroom?", "Am I allowed to make announcements in Google Classroom?", "How do I share an announcement in Google Classroom?", "Can students post updates in Google Classroom?", "Who can make announcements in Google Classroom?", "Is it possible for me to post a message in Google Classroom?", "Can I notify my classmates in Google Classroom?", "How do I create an announcement in Google Classroom?", "Are students allowed to make posts in Google Classroom?", "Can I communicate with my class using announcements in Google Classroom?"
+            ],
+            "responses": [
+                "No, the announcement is only avaible for corresponding course instructors and support team members of Data Solution 360. Students can not announce anything there, but they can submit their assigned work and comment on their works."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "Where can I find the course instructor contacts?","Where can I find my instructor's contact details in Google Classroom?", "How do I contact my course instructor in Google Classroom?", "Where is the teacher's email listed in Google Classroom?", "How can I reach out to my professor in Google Classroom?", "Where do I find my teacher’s contact information?", "How do I message my instructor in Google Classroom?", "Is there a way to get my instructor’s email in Google Classroom?", "Where can I see my teacher's contact details in Google Classroom?", "How do I communicate with my instructor through Google Classroom?", "Where is the instructor's information displayed in Google Classroom?"
+            ],
+            "responses": [
+                "The course instructor's contacts are usually shared in the WhatsApp & Messenger groups in regular basis. As they sent messages before every class in both groups, you can find their WhatApp number or Facebook ID from there. Addtionally, you can check our official websites for more details about their profiles."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "Where can I find the support members contacts?","Where can I find the support team’s contact details?", "How do I contact Google Classroom support?", "Where is the support team’s email listed in Google Classroom?", "How can I reach out to the support members in Google Classroom?", "Where do I find technical support contact information?", "How do I message the Google Classroom help team?", "Is there a way to get in touch with Google Classroom support?", "Where can I see support team contact details in Google Classroom?", "How do I communicate with Google Classroom support staff?", "Where is the help desk information displayed in Google Classroom?"
+            ],
+            "responses": [
+                "The support member's contacts are usually shared in both Messenger & WhatsApp group in regular basis. From there, you can find which support member you need to contact for particular topics in the course."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "As I am restricted to send messages in WhatsApp or Google Classroom, where should I write my problems during the course?","Since I'm restricted from sending messages on WhatsApp or Google Classroom, where should I post my course-related problems?", "As I cannot send messages on WhatsApp or Google Classroom, where can I ask my doubts during the course?", "Where should I write my problems during the course if I'm not allowed to message in WhatsApp or Google Classroom?", "If I'm restricted from messaging on WhatsApp or Google Classroom, where can I share my course-related issues?", "Given that I can't send messages on WhatsApp or Google Classroom, where should I raise my concerns during the course?"
+            ],
+            "responses": [
+                "You can share your concerns in the Messenger group. Also, we encourage you to contact with the support team members and share your problems with them."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "Aside from Google Classroom, Messenger, and WhatsApp group, should I have to join any other group/groups?","Besides Google Classroom, Messenger, and WhatsApp group, do I need to join any other groups?", "Apart from Google Classroom, Messenger, and WhatsApp group, is there any other group I should join?", "Should I be a part of any other groups besides Google Classroom, Messenger, and WhatsApp?", "Other than Google Classroom, Messenger, and WhatsApp, do I need to join additional groups?", "Is joining any other group necessary apart from Google Classroom, Messenger, and WhatsApp?"
+            ],
+            "responses": [
+                "No, these are the only groups you need to join. Additionally, you need to register in our official website to view your personal & course-related information."
+            ]
+        },
+        {
+            "tag": "Batch Groups Related Questions",
+            "patterns": [
+                "Which group should I get all the important notifications about class?","Which group will provide all the important class notifications?", "Where can I receive all the essential class updates?", "In which group will I get all the important announcements about class?", "Which platform should I rely on for important class notifications?", "Where should I check for all the crucial updates regarding the class?"
+            ],
+            "responses": [
+                "All important notification about the classes are shared in both Messenger& WhatsApp groups"
+            ]
+        },
+        {
+            "tag": "Class Materials Related Questions",
+            "patterns": [
+                "Where should I get all the class material files after a class?","Where can I find all the class material files after a class?", "Where should I access the class materials after each session?", "In which group or platform will the class materials be available after a lesson?", "Where will all the study materials be uploaded after the class?", "How can I get the class material files once the class is over?"
+            ],
+            "responses": [
+                "You can find all the class material files in the Google Classroom within the 24 hours after a class."
+            ]
+        },
+        {
+            "tag": "Class Materials Related Questions",
+            "patterns": [
+                "Where should I get the class record video after a class?","Where can I find the class recording after a session?", "Where should I access the class record video after a class?", "In which platform will the class recording be available after the lesson?", "Where will the recorded class video be uploaded?", "How can I get the class recording once the session is over?"
+            ],
+            "responses": [
+                "You can find all the class record videos in the Google Classroom within the 24 hours after a class."
+            ]
+        },
+        {
+            "tag": "Class Materials Related Questions",
+            "patterns": [
+                "Can I download the class record videos?","Am I allowed to download the class record videos?", "Is it possible to download the recorded class videos?", "Can I save the class recording to my device?", "Is downloading the class record videos permitted?", "Will I be able to download the recorded class sessions?"
+            ],
+            "responses": [
+                "As all of our class record videos are uploaded in Youtube, you can download you class record videos inside Youtube app & view them later. But we do not encourage student to directly download the class record videos outside Youtube.."
+            ]
+        },
+        {
+            "tag": "Class Materials Related Questions",
+            "patterns": [
+                "How can I download a file from Google Classroom?","How do I download a file from Google Classroom?", "What is the process to download a file from Google Classroom?", "How can I save a file from Google Classroom to my device?", "What steps should I follow to download a file from Google Classroom?", "Is there a way to download files directly from Google Classroom?"
+            ],
+            "responses": [
+                "When you click on a file in the Google Classroom, you can find the Download icon on the top right corner. But if you can not find it, then find the option (Open in a new tab) at the top right corner, and open the file in a new tab. From there, you can find the (Download) option."
+            ]
+        },
+        {
+            "tag": "Class Materials Related Questions",
+            "patterns": [
+                "Is it possible to send us the class record video in google drive during the course?","Can the class record video be shared with us on Google Drive during the course?", "Is it possible to upload the class recording to Google Drive for us?", "Will the class record video be available on Google Drive during the course?", "Can we receive the class recording via Google Drive while the course is ongoing?", "Is there an option to access the class record video through Google Drive during the course?"
+            ],
+            "responses": [
+                "No, it is not possible. According to our company policy, all of our class record videos are uploaded in our official Youtube channel. So, we do not share the google drive link of class record videos."
+            ]
+        },
+        {
+            "tag": "Class Materials Related Questions",
+            "patterns": [
+                "What happened if I can not join the Messenger group from the link?","What if I can not join the Messenger group from the link?","I could not join the Messenger group from the link?","What happens if I cannot join the Messenger group from the link?", "What should I do if I can’t join the Messenger group through the link?", "What if I’m unable to join the Messenger group via the link?", "What happens if the Messenger group link doesn’t work for me?", "What if I can’t access the Messenger group using the link?", "What should I do if the link to the Messenger group isn’t working?", "Is there an alternative if I can't join the Messenger group from the link?", "What if the link doesn’t allow me to join the Messenger group?", "What’s the next step if I can’t join the Messenger group from the link?", "What happens if the Messenger group link isn’t letting me join?"
+            ],
+            "responses": [
+                "If you can not join the Messenger group from the link in the mail sent by Data Solution 360, you can contact with the support team member. You can find the contact information of the support team member in the same mail that you've got the Messenger & other group links."
+            ]
+        },
+        {
+            "tag": "Class Materials Related Questions",
+            "patterns": [
+                "How long should I wait to get the class record video after the class?", "When will the class record video be available after the class?", "How much time does it take to receive the class record video after the class?", "How soon can I expect the class record video after the session?", "What’s the waiting time for the class record video after the class?", "How long does it take to get access to the class record video?", "When can I expect to receive the class recording after it ends?", "How long do I need to wait for the class record video after the class?", "How quickly will the class record video be shared after the session?", "What’s the usual wait time to get the class record video after the class?"
+            ],
+            "responses": [
+                "You can find the class record video of every class in the Google Classroom within the 24 hours after the class finished"
+            ]
+        },
+        {
+            "tag": "Class Materials Related Questions",
+            "patterns": [
+                "Should I have to subscribe to the YouTube channel to see the class record video?", "Do I need to subscribe to the YouTube channel to access the class record video?", "Is subscribing to the YouTube channel required to view the class record video?", "Do I have to be a subscriber to watch the class record video on YouTube?", "Is it necessary to subscribe to the YouTube channel to watch the class recording?", "Can I view the class record video without subscribing to the YouTube channel?", "Do I need a subscription to the YouTube channel to see the class record video?", "Is subscribing to the YouTube channel mandatory to access the class record video?", "Should I subscribe to the YouTube channel for the class record video?", "Is it required to subscribe to the YouTube channel for the class video?"
+            ],
+            "responses": [
+                "We recommend you to subscribe to our youtube channel Data Solution-360 to find more educative contents aside from your regular classes. Although, you can view your class record videos even if you do not subscribe."
+            ]
+        },
+        {
+            "tag": "Class Materials Related Questions",
+            "patterns": [
+                "How long do I get access to the course and class materials?", "For how long will I have access to the course and class materials?", "How long can I access the course and class materials?", "Until when can I access the course and class materials?", "What is the duration of access to the course and class materials?", "How long will I be able to access the course and class materials?", "How much time do I have access to the course and class materials?", "How long will the course and class materials be available to me?", "What’s the access period for the course and class materials?", "How long do I retain access to the course and class materials?"
+            ],
+            "responses": [
+                "You will get lifetime access to all the course & class materials of you registered batch."
+            ]
+        },
+        {
+            "tag": "Class Materials Related Questions",
+            "patterns": [
+                "Can I get access to the course and class materials even after the completion of the course?", "Will I still have access to the course and class materials after the course ends?", "Can I continue accessing the course and class materials after the course is finished?", "Do I retain access to the course and class materials after the course concludes?", "Can I access the course and class materials once the course is over?", "Is access to the course and class materials available after the course ends?", "Will the course and class materials remain accessible after the course is completed?", "Can I still access the course and class materials after the course finishes?", "Do I have access to the course and class materials even after the course ends?", "Will I be able to view the course and class materials post-course?"
+            ],
+            "responses": [
+                "Yes, of course. The access will remain lifetime."
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "What is a High-Performance Team?", "What defines a High-Performance Team?", "Can you explain what a High-Performance Team is?", "What makes a team a High-Performance Team?", "What does a High-Performance Team mean?", "What characteristics define a High-Performance Team?", "How is a High-Performance Team different from other teams?", "What are the traits of a High-Performance Team?", "What constitutes a High-Performance Team?", "What is the concept of a High-Performance Team?"
+            ],
+            "responses": [
+                "A High Performance Team is a team that is contained by the best performers of one batch, or several batches combined. Usually, a High Performance team is formed when one or multiple batches finish their online live classes & class assignments, with the best performers of the corresponding batches."
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "What are the criteria to join the High-Performance Team?", "What qualifications are required to join the High-Performance Team?", "How can I become a part of the High-Performance Team?", "What do I need to meet to join the High-Performance Team?", "What are the requirements to join the High-Performance Team?", "What skills or traits are needed to join the High-Performance Team?", "How do I qualify to join the High-Performance Team?", "What should I do to be selected for the High-Performance Team?", "What’s needed to be part of the High-Performance Team?", "What are the standards for joining the High-Performance Team?"
+            ],
+            "responses": [
+                "To join the High Performance team, a student need to attend at least 90% of the classes in the course and finish all the assignments and homework successfully. Then, he/she need to go through an evaluation process (typically 1/2 assessment projects). If he/she passes the assessment, then he/she can join the High Performance team."
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "Is there any preliminary exam or assessment to join the High-Performance Team?", "Do I need to take a test or assessment to join the High-Performance Team?", "Is there an entrance exam or evaluation to join the High-Performance Team?", "Do I have to pass an exam or assessment to join the High-Performance Team?", "Is a preliminary assessment required to join the High-Performance Team?", "Are there any exams or tests to qualify for the High-Performance Team?", "Is there any evaluation process to join the High-Performance Team?", "Do I need to go through a screening or assessment to join the High-Performance Team?", "Is an initial exam or test necessary to join the High-Performance Team?", "What kind of assessment is required to join the High-Performance Team?"
+            ],
+            "responses": [
+                "Yes. After the completion of the course, the best performers who apply for the High Performance team need to go through an evaluation process (typically 1/2 assessment projects). If the student passes the assessment, then he/she can be selected for the High Performance team."
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "Do I get paid if I work on a High-Performance Team?", "Is there compensation for working on a High-Performance Team?", "Will I be paid if I join the High-Performance Team?", "Do members of the High-Performance Team receive payment?", "Is there any financial reward for working on a High-Performance Team?", "Do High-Performance Team members get paid?", "Is payment provided for working in a High-Performance Team?", "Do I receive a salary if I work on the High-Performance Team?", "Are there financial benefits for working on a High-Performance Team?", "Do people get compensated for being part of a High-Performance Team?"
+            ],
+            "responses": [
+                "The High Performance team is basically a job-ready support provided by Data Solution 360 after the completion of the online live classes of a batch. So this is not a paid offer."
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "What are the main works of a High-Performance Team?", "What tasks does a High-Performance Team typically handle?", "What are the primary responsibilities of a High-Performance Team?", "What does a High-Performance Team focus on?", "What kind of work is expected from a High-Performance Team?", "What are the key functions of a High-Performance Team?", "What are the main duties of a High-Performance Team?", "What roles does a High-Performance Team perform?", "What are the essential tasks for a High-Performance Team?", "What is the core work of a High-Performance Team?"
+            ],
+            "responses": [
+                "In the High Performance team, "
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "How long does a High-Performance Team work on a particular project?", "What is the typical duration for a High-Performance Team to work on a project?", "How much time does a High-Performance Team spend on a specific project?", "How long do High-Performance Teams usually work on projects?", "What is the time frame for a High-Performance Team to complete a project?", "How long is a High-Performance Team involved in a project?", "What’s the typical project duration for a High-Performance Team?", "How much time is allocated for a High-Performance Team to work on a project?", "How long does a High-Performance Team focus on one project?", "How long do High-Performance Teams work on individual projects?"
+            ],
+            "responses": [
+                "001"
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "Are all the projects of a High-Performance Team single projects, or group projects?", "Do High-Performance Teams work on individual projects or collaborative projects?", "Are the projects handled by High-Performance Teams typically solo or team-based?", "Are High-Performance Teams involved in single-person projects or group projects?", "Do High-Performance Teams work on projects alone or as a team?", "Are the projects of High-Performance Teams individual or group efforts?", "Are High-Performance Team projects generally solo or collaborative?", "Do High-Performance Teams focus on single or group projects?", "Are all High-Performance Team projects independent or team-driven?", "Are the projects of High-Performance Teams done individually or in groups?"
+            ],
+            "responses": [
+                "18"
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "How many projects does a High-Performance Team usually handle?", "What is the typical number of projects for a High-Performance Team?", "How many projects does a High-Performance Team typically work on?", "How many projects are usually assigned to a High-Performance Team?", "How many projects does a High-Performance Team typically manage?", "How many projects does a High-Performance Team take on?", "How many projects does a High-Performance Team usually complete?", "What’s the average number of projects for a High-Performance Team?", "How many projects do High-Performance Teams usually oversee?", "How many projects does a High-Performance Team typically focus on?"
+            ],
+            "responses": [
+                "17"
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "Do I get to work on real-life paid projects on a High-Performance Team?", "Will I have the opportunity to work on real paid projects in a High-Performance Team?", "Do members of a High-Performance Team work on actual paid projects?", "Is there a chance to work on real-life paid projects in a High-Performance Team?", "Do High-Performance Teams handle paid, real-world projects?", "Will I be involved in real paid projects as part of a High-Performance Team?", "Do High-Performance Teams work on live paid projects?", "Will I work on actual paid projects within a High-Performance Team?", "Are real-life paid projects part of a High-Performance Team’s work?", "Do High-Performance Teams work on projects that are paid and real-world?"
+            ],
+            "responses": [
+                "16"
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "Can I work with real-life datasets on a High-Performance Team?", "Will I have the opportunity to work with real-world datasets on a High-Performance Team?", "Do members of a High-Performance Team work with real-life datasets?", "Is it possible to work with actual datasets in a High-Performance Team?", "Can I handle real-life datasets as part of a High-Performance Team?", "Do High-Performance Teams work with real-world data?", "Will I get to work with live datasets on a High-Performance Team?", "Can I access real-life datasets within a High-Performance Team?", "Do High-Performance Teams manage and work with real datasets?", "Can I engage with real-world data on a High-Performance Team?"
+            ],
+            "responses": [
+                "15"
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "How is a leader of a High-Performance Team chosen?", "What’s the process for selecting a leader in a High-Performance Team?", "How do you choose a leader for a High-Performance Team?", "What criteria are used to select a leader for a High-Performance Team?", "How is the leader of a High-Performance Team appointed?", "How is leadership determined in a High-Performance Team?", "What determines who becomes the leader of a High-Performance Team?", "How is the team leader of a High-Performance Team selected?", "What’s the process for appointing a leader in a High-Performance Team?", "How do High-Performance Teams decide who will lead?"
+            ],
+            "responses": [
+                "14"
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "What are some main advantages that a High-Performance Team member gets in Data Solution 360?", "What benefits do High-Performance Team members receive in Data Solution 360?", "What are the key advantages for a High-Performance Team member in Data Solution 360?", "What perks does a High-Performance Team member get in Data Solution 360?", "What are the main rewards for a High-Performance Team member in Data Solution 360?", "What are the primary advantages for High-Performance Team members at Data Solution 360?", "What do High-Performance Team members gain in Data Solution 360?", "What are the main benefits of being a High-Performance Team member in Data Solution 360?", "What are the key benefits a High-Performance Team member gets in Data Solution 360?", "What are the top advantages for High-Performance Team members in Data Solution 360?"
+            ],
+            "responses": [
+                "13"
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "Does Data Solution 360 provide any certificate to High-Performance Team members?", "Do High-Performance Team members receive a certificate from Data Solution 360?", "Is a certificate given to High-Performance Team members by Data Solution 360?", "Does Data Solution 360 offer certificates to High-Performance Team members?", "Are certificates provided to High-Performance Team members by Data Solution 360?", "Do members of the High-Performance Team at Data Solution 360 get a certificate?", "Will Data Solution 360 issue a certificate to High-Performance Team members?", "Are certificates awarded to High-Performance Team members at Data Solution 360?", "Do Data Solution 360 High-Performance Team members receive certification?", "Is a certificate offered to High-Performance Team members by Data Solution 360?"
+            ],
+            "responses": [
+                "12"
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "Can I get placement at Data Solution 360 if I am in the High-Performance Team?", "Does being in the High-Performance Team guarantee placement at Data Solution 360?", "Can I secure a placement at Data Solution 360 as a member of the High-Performance Team?", "Is placement at Data Solution 360 available for High-Performance Team members?", "Will being part of the High-Performance Team at Data Solution 360 help me get placement?", "Can High-Performance Team members get placement at Data Solution 360?", "Is there any placement opportunity for High-Performance Team members at Data Solution 360?", "Can I be placed at Data Solution 360 if I’m a part of the High-Performance Team?", "Does Data Solution 360 offer placement to its High-Performance Team members?", "Will I be able to get a placement at Data Solution 360 by joining the High-Performance Team?"
+            ],
+            "responses": [
+                "1"
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "Can I get placement support from Data Solution 360 if I am in the High-Performance Team?", "Does Data Solution 360 provide placement support to High-Performance Team members?", "Will Data Solution 360 offer placement assistance if I am in the High-Performance Team?", "Can being in the High-Performance Team at Data Solution 360 help me with placement support?", "Is placement support available for High-Performance Team members at Data Solution 360?", "Do High-Performance Team members receive placement support from Data Solution 360?", "Can I receive placement support from Data Solution 360 by joining the High-Performance Team?", "Does Data Solution 360 assist with placement for High-Performance Team members?", "Will I get placement support from Data Solution 360 if I am part of the High-Performance Team?", "Is there placement assistance for High-Performance Team members at Data Solution 360?"
+            ],
+            "responses": [
+                "2"
+            ]
+        },
+        {
+            "tag": "High Performance Team Related Questions",
+            "patterns": [
+                "Do I have the chance to work on paid projects at Data Solution 360 if I am in the High-Performance Team?", "Will I get the opportunity to work on paid projects at Data Solution 360 as a High-Performance Team member?", "Can I work on paid projects at Data Solution 360 by being in the High-Performance Team?", "Do High-Performance Team members have access to paid projects at Data Solution 360?", "Is there a chance for High-Performance Team members to work on paid projects at Data Solution 360?", "Can I be assigned to paid projects at Data Solution 360 as part of the High-Performance Team?", "Do I get to work on real paid projects at Data Solution 360 if I am in the High-Performance Team?", "Is working on paid projects a possibility for High-Performance Team members at Data Solution 360?", "Do High-Performance Team members work on paid projects at Data Solution 360?", "Am I eligible to work on paid projects at Data Solution 360 if I join the High-Performance Team?"
+            ],
+            "responses": [
+                "3"
+            ]
+        },
+        {
+            "tag": "Certificate Related Questions",
+            "patterns": [
+                "When do I get the course certificate after enrolling in a course at Data Solution 360?", "How long after enrolling in a course at Data Solution 360 will I receive my course certificate?", "When can I expect to receive the course certificate after joining a course at Data Solution 360?", "How soon after enrolling in a course will I get the certificate from Data Solution 360?", "When is the course certificate issued after I enroll in a course at Data Solution 360?", "What’s the timeline for receiving a course certificate after enrolling in a course at Data Solution 360?", "How much time does it take to get the course certificate after enrolling in a course at Data Solution 360?", "When will I receive the certificate for the course after enrolling at Data Solution 360?", "How long will it take to get the course certificate after enrolling in a Data Solution 360 course?", "When can I expect my course certificate after enrolling in a course at Data Solution 360?"
+            ],
+            "responses": [
+                "4"
+            ]
+        },
+        {
+            "tag": "Certificate Related Questions",
+            "patterns": [
+               "What are the criteria I must meet to obtain a course certificate after the course?", "What do I need to do to earn a course certificate after completing the course?", "What are the requirements to receive a course certificate after the course?", "What conditions must I fulfill to obtain the course certificate after the course?", "What are the conditions for receiving the course certificate after completing the course?", "What criteria must be maintained to receive a course certificate after the course?", "How can I qualify for a course certificate after completing the course?", "What do I need to maintain to earn the course certificate after the course?", "What is required to get the course certificate after finishing the course?", "What are the essential criteria for obtaining a course certificate after the course?"
+            ],
+            "responses": [
+                "5"
+            ]
+        },
+        {
+            "tag": "Certificate Related Questions",
+            "patterns": [
+                "What are some key advantages of the course certificate from Data Solution 360?", "What benefits come with the course certificate from Data Solution 360?"
+            ],
+            "responses": [
+                "6"
+            ]
+        },
+        {
+            "tag": "Certificate Related Questions",
+            "patterns": [
+                "How long is the validation period of the course certificate?"
+            ],
+            "responses": [
+                "7"
+            ]
+        },
+        {
+            "tag": "Certificate Related Questions",
+            "patterns": [
+                "Is the course certificate a hardcopy or softcopy?", "Will the course certificate be provided as a hardcopy or softcopy?", "Is the course certificate available in hardcopy or digital format?", "Will I receive a hardcopy or a softcopy of the course certificate?", "Is the course certificate provided as a physical copy or digital copy?", "Is the course certificate given in hardcopy or softcopy form?", "Will the course certificate be sent as a printed copy or an electronic version?", "Is the course certificate issued in physical form or digital format?", "Is the course certificate a printed document or a digital file?", "Is the course certificate provided as a physical copy or a softcopy?"
+            ],
+            "responses": [
+                "8"
+            ]
+        },
+        {
+            "tag": "Certificate Related Questions",
+            "patterns": [
+                "Can I show my course certificate in my portfolio?", "Is it acceptable to include my course certificate in my portfolio?", "Can I add the course certificate to my portfolio?", "Am I allowed to showcase my course certificate in my portfolio?", "Can the course certificate be included in my portfolio?", "Is it okay to display my course certificate in my portfolio?", "Can I feature the course certificate in my portfolio?", "Is it permissible to put my course certificate in my portfolio?", "Can my course certificate be part of my professional portfolio?", "Will it be acceptable to add the course certificate to my portfolio?"
+            ],
+            "responses": [
+                "9"
+            ]
+        },
+        {
+            "tag": "Certificate Related Questions",
+            "patterns": [
+                "Can I show my course certificate in any interview?", "Is it okay to present my course certificate in an interview?", "Can I use my course certificate during an interview?", "Am I allowed to show my course certificate in an interview?", "Is it acceptable to display my course certificate in an interview?", "Can I mention my course certificate in an interview?", "Can I share my course certificate during a job interview?", "Is it appropriate to show my course certificate in an interview?", "Can I provide my course certificate during an interview?", "Will it be acceptable to present my course certificate in an interview?"
+            ],
+            "responses": [
+                "10"
+            ]
+        },
+        {
+            "tag": "Default",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "11"
+            ]
+        }
+    ]
+}

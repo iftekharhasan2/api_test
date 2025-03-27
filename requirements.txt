@@ -6,3 +6,4 @@ openai
 python-dotenv
 flask-cors
 gunicorn
+openai==0.28
